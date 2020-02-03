@@ -3436,7 +3436,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header {
-				display: block;
+				display: block; 
 				padding: 0 2em;
 				text-align: left;
 			}
